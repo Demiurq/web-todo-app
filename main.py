@@ -11,4 +11,3 @@ for todo in todos:
     st.checkbox(todo)
     
 st.text_input(label="Enter a todo: ", placeholder="Add new todo...")
-
